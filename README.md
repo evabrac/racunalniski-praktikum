@@ -1,3 +1,3 @@
 # RP
-# RP
 # racunalniski-praktikum
+.
