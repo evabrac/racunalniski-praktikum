@@ -21,7 +21,7 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 
 <!-- začetek bloka z izvorno kodo -->
 <h2>Izvorna koda</h2>
-<pre><code>&lt;&gt;Ctrl&lt;&gt; </code></pre>
+<pre><code>&lt;kbd&gt;Ctrl&lt;/kbd&gt;</code></pre>
 
 <!-- konec bloka z izvorno kodo -->
 
@@ -41,4 +41,6 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 1. [FMF učilnica](https://ucilnica.fmf.uni-lj.si/)
 2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 3. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
+
 4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
