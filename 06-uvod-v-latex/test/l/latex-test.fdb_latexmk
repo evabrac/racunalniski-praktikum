@@ -1,0 +1,22 @@
+# Fdb version 4
+["pdflatex"] 1764178026.24403 "c:/Users/evabr/racunalniski-praktikum/06-uvod-v-latex/test/l/latex-test.tex" "latex-test.pdf" "latex-test" 1764178026.88424 0
+  "C:/Users/evabr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1764177526 81088 29d6fa367ac022d1b69251d68c0742e6 ""
+  "C:/Users/evabr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1658674430 10329961 a6fa07934ec4b7701e3356bf147307f1 ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1657041432 20144 7555b7429d80bef287ebb82117811acc ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1657041432 8448 e0391042ca0932ede1098ae14ada60ba ""
+  "C:/Users/evabr/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1656697404 31050 293f2cc98a3575c4228b5157bf850b8f ""
+  "c:/Users/evabr/racunalniski-praktikum/06-uvod-v-latex/test/l/latex-test.tex" 1764178024 216 fed09d5b414ad0bfc9f0c3697ed2f521 ""
+  "latex-test.aux" 1764178026 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "latex-test.tex" 1764178024 216 fed09d5b414ad0bfc9f0c3697ed2f521 ""
+  (generated)
+  "latex-test.aux"
+  "latex-test.log"
+  "latex-test.pdf"
+  (rewritten before read)
