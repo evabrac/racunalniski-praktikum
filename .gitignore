@@ -1,7 +1,7 @@
 # VSCode uporabniške nastavitve
 .vscode/
 
-# LaTeX
+# LaTeX outputs
 *.aux
 *.bbl
 *.blg
@@ -14,14 +14,15 @@
 *.pyc
 *.synctex.gz
 
+# Ignore LaTeX outputs in subfolder recursively
+06-uvod-v-latex/**
+
 # MacOS
 __MACOSX
 .DS_Store
 
 # Windows
-thumbs.db
+Thumbs.db
 
 # Python
-__pycache__
-
-06-uvod-v-latex/
+__pycache__/
